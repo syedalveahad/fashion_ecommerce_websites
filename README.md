@@ -1,4 +1,4 @@
-# RastaLife E-commerce Website
+# RastaLife a Fashion eCommerce Websites
 
 A full-featured e-commerce platform for RastaLife, a Bangladeshi fashion clothing brand.
 
